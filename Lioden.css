@@ -1,0 +1,24 @@
+@media (min-width:768px) {
+
+    body { background: #113145 !important;
+    BACKGROUND-REPEAT: NO-REPEAT;
+    BACKGROUND-SIZE: 100%;
+    }
+    
+    }
+
+    @media (max-width: 768px) {
+        body {
+        background: #113145 !important;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: auto !important;
+        min-width: 600px !important;
+        }
+
+    }
+
+    body {
+        background: #113145 !important;
+        background-size: cover;
+        }
